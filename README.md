@@ -59,14 +59,14 @@ Raw Data (50 variables)
   │  • DD Hubert Statistic          │
   │  • D Index (Elbow Method)       │
   │  • NbClust (26 criteria)        │
-  │  → Consensus: K = 4            │
+  │  → Consensus: K = 4             │
   └─────────────────────────────────┘
         │
         ▼
   ┌──────────────┐    ┌─────────────────────┐
-  │  K-Means     │    │  Hierarchical        │
-  │  Clustering  │    │  Clustering          │
-  │  (K=4,       │    │  (Average linkage,   │
+  │  K-Means     │    │  Hierarchical       │
+  │  Clustering  │    │  Clustering         │
+  │  (K=4,       │    │  (Average linkage,  │
   │  nstart=25)  │    │  K=4)               │
   └──────────────┘    └─────────────────────┘
         │                      │
