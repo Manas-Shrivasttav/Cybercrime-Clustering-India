@@ -179,7 +179,7 @@ Download the original dataset from [OGD Platform India](https://data.gov.in/reso
 
 ## 👥 Authors
 
-**Manas Shrivastav**, Muthulakshmi Supramanian, Tejaswi Harsh, Vanee Subramanian, Ankit Ajay, Rijan Gaha
+**Manas Shrivastav**, Muthulakshmi Supramanian, Tejaswi Harsh, Vanee Subramanian, Ankit Ajay, Rijan Gaha, Nagendra BV, Joseph Durai Selvam, and Ganesh. L
 
 MBA – Business Analytics, School of Business and Management, **Christ University, Bangalore**
 
