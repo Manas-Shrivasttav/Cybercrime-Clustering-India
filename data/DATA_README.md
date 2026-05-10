@@ -57,4 +57,4 @@ If using this data in your own research, cite the OGD Platform India:
 
 And cite the original paper:
 
-> Shrivastav, M., Supramanian, M., Harsh, T., Subramanian, V., Ajay, A., Gaha, R., BV, N., Selvam J., & Ganesh. L (2023). "Clustering of States and Union Territories in India Based on the Cybercrimes." WeSchool International Conference. ISBN: 978-93-91355-77-7.
+> Shrivastav, M., Supramanian, M., Harsh, T., Subramanian, V., Ajay, A., & Gaha, R. (2023). "Clustering of States and Union Territories in India Based on the Cybercrimes." WeSchool International Conference. ISBN: 978-93-91355-77-7.
