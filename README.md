@@ -133,8 +133,6 @@ Uttar Pradesh (Cluster 1) stands alone as a high-risk state with significantly e
 │   └── clustering_analysis.R   # K-Means + Hierarchical clustering
 ├── data/
 │   └── DATA_README.md          # Dataset description and source
-├── paper/
-│   └── Cybercrime_Clustering_Paper.pdf   # Published conference paper
 └── README.md
 ```
 
