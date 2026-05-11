@@ -194,4 +194,4 @@ MBA – Business Analytics, School of Business and Management, **Christ Universi
 
 ## 📄 License
 
-MIT License — code is open for academic and research use. Please cite the original paper if using methodology or findings.
+Code is open for academic and research use. Please cite the original paper.
